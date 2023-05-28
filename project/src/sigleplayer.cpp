@@ -221,7 +221,7 @@ void HangmanGame::Rules()
 	cout<<" 2) you have to guess what animal it is letter by letter"<<endl;
 	cout<<" 3) if you guess wrong you loose part of your body to the gallows"<<endl;
     cout<<" 4) entering non-letter character will not result in you loosing a try"<<endl;
-	cout<<" 5) when your body is fully on the gallows you loose compleatly"<<endl;
+	cout<<" 5) when your body is fully on the gallows you loose completely"<<endl;
 	cout<<" 6) this is what a full body looks like:"<<endl;
     cout<<endl;
     cout<<"       O"<<endl;
